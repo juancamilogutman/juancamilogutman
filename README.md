@@ -1,6 +1,6 @@
 <h1>Sobre mi/About me:</h1>
 
-<p>Soy Juan Camilo, Economista y Data Scientist de <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. Actualmente estoy cursando una Maestría en Economía de la Universidad de Buenos Aires, profundizando mi formación sobre la base de mi previa obtención de una Licenciatura en Economía de la misma prestigiosa institución. Además, he completado un curso en Ciencia de Datos en Digital House, mejorando mis habilidades analíticas y ampliando mi experiencia en campos relevantes.</p>
+<p>Soy Juan Camilo Gutman, Economista y Data Scientist de <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. Actualmente estoy cursando una Maestría en Economía de la Universidad de Buenos Aires, profundizando mi formación sobre la base de mi previa obtención de una Licenciatura en Economía de la misma prestigiosa institución. Además, he completado un curso en Ciencia de Datos en Digital House, mejorando mis habilidades analíticas y ampliando mi experiencia en campos relevantes.</p>
 
 <p>I am Juan Camilo Gutman, an Economist and Data Scientist from <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. I am currently pursuing a Master's degree in Economics at the University of Buenos Aires, building upon my prior attainment of a Bachelor's degree in Economics from the same prestigious institution. Additionally, I have completed a course in Data Science from Digital House, enhancing my analytical skills and broadening my expertise in relevant fields. </p><br/>
 
@@ -27,12 +27,14 @@
 [<img align="left" alt="X"        width="30px" src="https://img.icons8.com/?size=64&id=bG29Ckcdp6YP&format=png" />][twitter] --->
 [<img align="left" alt="LinkedIn"       width="30px" src="https://img.icons8.com/?size=64&id=118979&format=png" />][linkedin]
 [<img align="left" alt="lichess"      width="27px" src="https://avatars.githubusercontent.com/u/16491637?v=4" />][lichess]
+[<img align="left" alt="Goodreads"      width="30px" src="https://img.icons8.com/?size=80&id=OAalHFPavJqq&format=png" />][goodreads]
 
 
 <!--- [website]: https://lcaravaggio.github.io/ 
 [twitter]: https://x.com/leocaravaggio --->
 [linkedin]: https://www.linkedin.com/in/juancamilogutman
 [lichess]: https://lichess.org/@/Juancajedrez
+[goodreads]: https://www.goodreads.com/user/show/142800098-juanca
 <!---
 - 👋 Hi, I’m @juancamilogutman
 - 👀 I’m interested in economics and statistics
