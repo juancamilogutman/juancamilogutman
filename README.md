@@ -6,7 +6,7 @@
 
 📫: gutmanjuancamilo@gmail.com
 
-<h3>Herramientas con las que trabajo/Tools I work with:</h3>
+<h2>Herramientas con las que trabajo/Tools I work with:</h2>
 <p>  
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
