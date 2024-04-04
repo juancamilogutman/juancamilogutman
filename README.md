@@ -27,7 +27,7 @@
 [<img align="left" alt="X"        width="30px" src="https://img.icons8.com/?size=64&id=bG29Ckcdp6YP&format=png" />][twitter] --->
 [<img align="left" alt="LinkedIn"       width="30px" src="https://img.icons8.com/?size=64&id=118979&format=png" />][linkedin]
 [<img align="left" alt="lichess"      width="27px" src="https://avatars.githubusercontent.com/u/16491637?v=4" />][lichess]
-[<img align="left" alt="Goodreads"      width="30px" src="https://img.icons8.com/?size=80&id=OAalHFPavJqq&format=png" />][goodreads]
+[<img align="left" alt="Goodreads"      width="30px" src="https://www.goodreads.com/images/icons/goodreads_icon_100x100.png?1297385984" />][goodreads]
 
 
 <!--- [website]: https://lcaravaggio.github.io/ 
