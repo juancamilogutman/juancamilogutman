@@ -34,7 +34,7 @@
 [twitter]: https://x.com/leocaravaggio --->
 [linkedin]: https://www.linkedin.com/in/juancamilogutman
 [lichess]: https://lichess.org/@/Juancajedrez
-[goodreads]: https://www.goodreads.com/user/show/142800098-juanca
+[goodreads]: https://www.goodreads.com/user/show/142800098-juan-camilo-gutman
 <!---
 - 👋 Hi, I’m @juancamilogutman
 - 👀 I’m interested in economics and statistics
