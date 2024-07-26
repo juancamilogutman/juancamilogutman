@@ -20,6 +20,7 @@
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   ![Stata](https://img.shields.io/badge/STATA-025E8C?style=for-the-badge)
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Quarto](https://img.shields.io/badge/Quarto-39729E.svg?style=for-the-badge&logo=Quarto&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </p>
@@ -69,7 +70,9 @@
 
 
 
-Todas las medallas de https://github.com/Ileriayo/markdown-badges
+Todas las medallas de:
+- https://github.com/Ileriayo/markdown-badges
+- https://home.aveek.io/GitHub-Profile-Badges/
 
 con </br> se salta de línea
 --->
