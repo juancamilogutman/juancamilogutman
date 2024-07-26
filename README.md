@@ -75,4 +75,17 @@ Todas las medallas de:
 - https://home.aveek.io/GitHub-Profile-Badges/
 
 con </br> se salta de línea
+
+para una futura sección de productividad:
+https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white
+https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white
+https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white
+notion y obsidian las movería acá
+
+y, de marketing cuack
+https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=for-the-badge&logo=Google-Ads&logoColor=white
+https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
+https://img.shields.io/badge/Meta-0467DF.svg?style=for-the-badge&logo=Meta&logoColor=white
+https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white
+https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white
 --->
