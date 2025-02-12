@@ -1,8 +1,9 @@
 <h1>Sobre mi/About me:</h1>
 
-<p>Soy Juan Camilo Gutman, Economista y Data Scientist de <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. Actualmente estoy cursando la Maestría en Economía de la Universidad de Buenos Aires, profundizando mi formación sobre la base de mi previa obtención de una Licenciatura en Economía de la misma prestigiosa institución. Además, he completado un curso en Ciencia de Datos en Digital House, mejorando mis habilidades analíticas y ampliando mi experiencia en campos relevantes.</p>
+<p>Soy Juan Camilo Gutman, Economista de <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. En este momento me desempeño como Asistente de Investigación en el <a href="https://www.economicas.uba.ar/investigacion/institutos-y-centros/ceped/" target="_blank">Centro de Estudios de Población, Empleo y Desarrollo (CEPED - IIEP - UBA)</a>, cursando la Maestría en Economía en la Universidad de Buenos Aires.</p>
 
-<p>I am Juan Camilo Gutman, an Economist and Data Scientist from <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. I am currently pursuing a Master's degree in Economics at the University of Buenos Aires, building upon my prior attainment of a Bachelor's degree in Economics from the same prestigious institution. Additionally, I have completed a course in Data Science from Digital House, enhancing my analytical skills and broadening my expertise in relevant fields. </p><br/>
+
+<p>I am Juan Camilo Gutman, an Economist from <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. I work as a Research Assistant at the <a href="https://www.economicas.uba.ar/investigacion/institutos-y-centros/ceped/" target="_blank">Centro de Estudios de Población, Empleo y Desarrollo (CEPED - IIEP - UBA)</a>, pursuing a Master's degree in Economics at the University of Buenos Aires.</p><br/>
 
 📫: gutmanjuancamilo@gmail.com
 
@@ -25,6 +26,7 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </p>
 
+<!---
 <h2>Herramientas que estoy aprendiendo a utilizar/Tools I'm learning to work with:</h2>
 <p>  
   
@@ -35,8 +37,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
+--->
 
-### Más sobre mí/More about me:  
+## Más sobre mí/More about me:  
 <!--- [<img align="left" alt="Website"        width="30px" src="https://img.icons8.com/?size=80&id=i5AvNTkFop7s&format=png" />][website]
 [<img align="left" alt="X"        width="30px" src="https://img.icons8.com/?size=64&id=bG29Ckcdp6YP&format=png" />][twitter] --->
 [<img align="left" alt="LinkedIn"       width="30px" src="https://img.icons8.com/?size=64&id=118979&format=png" />][linkedin]
