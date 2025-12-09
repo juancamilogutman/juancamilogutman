@@ -1,4 +1,4 @@
-<h1>Sobre mi/About me:</h1>
+# Sobre mi/About me:
 
 <p>Soy Juan Camilo Gutman, Economista de <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. En este momento me desempeño como Asistente de Investigación en el <a href="https://www.economicas.uba.ar/investigacion/institutos-y-centros/ceped/" target="_blank">Centro de Estudios de Población, Empleo y Desarrollo (CEPED - IIEP - UBA)</a>, cursando la Maestría en Economía en la Universidad de Buenos Aires.</p>
 
